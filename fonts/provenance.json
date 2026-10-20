@@ -1,0 +1,18 @@
+{
+  "family": "Sora",
+  "style": "Variable upright",
+  "weight_range": [
+    100,
+    800
+  ],
+  "file": "Sora-Variable.woff2",
+  "file_bytes": 59912,
+  "sha256": "ab33ad8fceb925a49379a69245892da448b49229c3c97ffb28cc9d74aa95fc36",
+  "upstream": "https://github.com/sora-xor/sora-font",
+  "commit": "7f9a9c5d0ccd1c099cfac420aa27133df1c5fdc4",
+  "source": "https://raw.githubusercontent.com/sora-xor/sora-font/7f9a9c5d0ccd1c099cfac420aa27133df1c5fdc4/fonts/woff2/Sora%5Bwght%5D.woff2",
+  "license": "SIL Open Font License 1.1",
+  "license_file": "Sora-OFL.txt",
+  "modification": "Font file is unmodified. No network font loading is needed.",
+  "copyright": "Copyright 2019 The Sora Project Authors (https://github.com/sora-xor/sora-font)"
+}

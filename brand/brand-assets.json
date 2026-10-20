@@ -1,0 +1,43 @@
+{
+  "brand": "Cubiverse",
+  "version": "1.4",
+  "wordmark_case": "Uppercase initial C; remaining letters lowercase.",
+  "symbol": "Open isometric cube shaped as C, with a detached coral face.",
+  "wordmark": "Outlined Sora at weight 700, with customised spacing, a coral diamond i dot, and small 30-degree terminal facets on the initial C and final e. It is a custom wordmark derived from licensed Sora, not an original exclusive typeface.",
+  "font_license": "../fonts/Sora-OFL.txt",
+  "font_provenance": "../fonts/provenance.json",
+  "colors": {
+    "ink": "#18233B",
+    "ice": "#F4F5F1",
+    "lime": "#DDF65B",
+    "coral": "#FF7B5F",
+    "violet": "#AEB8FF",
+    "sky": "#90D6EA"
+  },
+  "files": {
+    "cubiverse-symbol-light.svg": {
+      "bytes": 285,
+      "sha256": "cf7aec0c28c8dab79c57aa2d53b6d709d3f9f8f74f38620b99122eda24fdf402"
+    },
+    "cubiverse-symbol.svg": {
+      "bytes": 285,
+      "sha256": "0f66b71ea2059994c865ff2b05e4bb1635e13a97123e392df5f1ffd51a762567"
+    },
+    "cubiverse-wordmark-light.svg": {
+      "bytes": 5316,
+      "sha256": "dba80cd121cda517532891975363ba9a0e5a079ee073f4b8dc8e0b98f61031e0"
+    },
+    "cubiverse-wordmark-text-light.svg": {
+      "bytes": 5166,
+      "sha256": "d4436249fa859a35d8019baaab47d24bafa8f1b4f0840256cd2a29eb49ac67d7"
+    },
+    "cubiverse-wordmark-text.svg": {
+      "bytes": 5166,
+      "sha256": "0503f1408711da5d70c6453bb7c26cee5017fe9e37bfa53565eada7f6b84df5c"
+    },
+    "cubiverse-wordmark.svg": {
+      "bytes": 5316,
+      "sha256": "11035c7eb744bdb68a1a78e189464d551e1b7e0c4d08eb78abc0402cdbd53b6f"
+    }
+  }
+}

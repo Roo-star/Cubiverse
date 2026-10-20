@@ -1,0 +1,73 @@
+Cubiverse V1.3 audio sources
+Retrieved: 2026-10-19
+
+empacotatron-loop.ogg
+Original: empacotatron_loop.ogg
+Work: Empacotatron
+Author: Fupi
+Source: https://opengameart.org/content/empacotatron
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+The original 80-second loop is distributed without audio modification.
+
+Kenney sample mapping (copied without audio modification):
+move.ogg <- interface/Audio/tick_004.ogg
+clear.ogg <- interface/Audio/glass_004.ogg
+error.ogg <- interface/Audio/error_004.ogg
+combo.ogg <- interface/Audio/confirmation_004.ogg
+line.ogg <- interface/Audio/maximize_008.ogg
+burst.ogg <- interface/Audio/drop_004.ogg
+power.ogg <- jingles/Audio/8-Bit jingles/jingles_NES08.ogg
+win.ogg <- jingles/Audio/Hit jingles/jingles_HIT00.ogg
+
+Sources:
+https://kenney.nl/assets/interface-sounds
+https://kenney.nl/assets/music-jingles
+
+Original Interface Sounds license:
+	
+
+	Interface Sounds (1.0)
+
+	Created/distributed by Kenney (www.kenney.nl)
+	Creation date: 11-02-2020
+
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	This content is free to use in personal, educational and commercial projects.
+
+	Support us by crediting Kenney or www.kenney.nl (this is not mandatory)
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Patreon:  http://patreon.com/kenney/
+
+	Follow on Twitter for updates:
+	http://twitter.com/KenneyNL
+
+Original Music Jingles license:
+	
+
+	Music Jingles
+
+	by  Kenney Vleugels (Kenney.nl)
+
+			------------------------------
+
+	License (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these assets in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Request:  http://request.kenney.nl
+
+	Follow on Twitter for updates:
+	@KenneyNL
